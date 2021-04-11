@@ -1,11 +1,18 @@
 # InternTask
 This website is for printing the contents of the file.
+
 There are 4 files in the project (file1.txt,file2.txt,file3.txt,file4.txt)
+
 To display contents of the file we have to type **localhost:5000/?file=<file_name>&start_line=<Starting_line_number>&end_line=<Ending_line_number>**
+
+
 Here,
   **<file_name>** represents the name of file (For ex: file1.txt)
+  
   **<Staring_line_number>** represent an integer in which the file will be displayed from that line number (For ex: 10)
+  
   **<Ending_line_number>** represent an integer in which the file will be displayed upto that line number (For ex: 30)
+  
   (Note:- Here ***start_line*** and ***end_line*** are optional and if no file name is given then by default file1.txt contents will be displayed)
   
   
