@@ -46,7 +46,9 @@ Here,
       
       
 
-**Tools Used**
+**Tools Used:-**
+
+
  In this project I had used the Python language and worked with files using ***with-open*** file handling mechanism.
  
  I've made some conditions to play with contents in the file for getting contents from a starting line to ending line or the total content of the file.
